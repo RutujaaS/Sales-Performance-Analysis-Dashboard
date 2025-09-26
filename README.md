@@ -84,11 +84,12 @@ The data includes:
   -Reduces manual tasks, speeding up the analysis process.
   
 # 📈 Business Impacts And Insights :-
- This **Sales Performance Dashboard** enhances decision-making by providing real-time insights into individual sales           executives' performance, enabling quick identification of top performers and underperformers. It allows sales managers to     track **target achievement** and **gaps** efficiently, improving resource allocation and team focus. The use of **VBA         Macros** automates repetitive tasks, boosting productivity. By visualizing key metrics, the dashboard helps refine **sales    strategies** and drive consistent performance across regions. Overall, it empowers the business to **optimize sales           efforts** and achieve higher targets.
+ This Sales Performance Dashboard enhances decision-making by providing real-time insights into individual sales executives' performance, enabling quick identification of     top performers and underperformers.It allows sales managers to track target achievement and gaps efficiently, improving resource allocation and team focus.The use of VBA     Macros automates repetitive tasks, boosting productivity. By visualizing key metrics, the dashboard helps refine sales strategies and drive consistent performance across     regions. Overall, it empowers the business to optimize sales efforts and achieve higher targets.
 🚀 Overall Business Impact:
 -Boosted Sales Productivity: More informed decision-making helps optimize sales team performance.
 -Enhanced Goal Alignment: Clear insights lead to better goal setting and alignment across the sales team.
 -Faster Response Times: Real-time data access helps sales managers quickly identify and address performance issues, ensuring   quicker actions are taken to hit targets.
 
 # 🖼️ Dashboard Snapshot / Demos :-
+  https://github.com/RutujaaS/Sales-Performance-Analysis-Dashboard/blob/main/SalesAnalysis_Dashboard.png
   
