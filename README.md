@@ -1,9 +1,9 @@
-## Project Title :-
-# 📊Sales Executives Performance Dashboard (Advanced Excel + VBA) 
-  This interactive Sales Performance Analysis Dashboard, designed using Advanced Excel, VBA Macros provides a comprehensive     view of the performance metrics of sales executives across different regions. 
+# Project Title :-
+## 📊Sales Executives Performance Dashboard (Advanced Excel + VBA) 
+  This interactive Sales Performance Analysis Dashboard, designed using Advanced Excel, VBA Macros provides a comprehensive     view of the performance metrics of sales        executives across different regions. 
   
 
-## 📝Description :-
+# 📝Description :-
 - This dashboard empowers management to make informed decisions, boost productivity, and align sales efforts with               organizational goals.
 - Fully interactive filters (e.g., by city, sales executive).
 - Clean and color-coded design for quick insights (pink and black theme for high contrast and clarity).
@@ -20,7 +20,7 @@
      -Displays how much the executives are away from their sales targets
   
 
- ## 🛠️Technologies Used in the Dashboard :-
+# 🛠️Technologies Used in the Dashboard :-
 🔹 📉Pivot Tables – For summarizing sales data dynamically by executive and region.
 🔹 📊Pivot Charts – Visual representation using bar, pie, and line charts.
 🔹 ➡️Slicers – For quick, interactive filtering by city, executive, or view.
@@ -37,7 +37,7 @@
     - Adds custom button functionalities for a seamless user experience.
 
 
-## Data Source :-
+# 🗂️Data Source :-
 This customized dataset is designed to track and analyze the sales performance of individual sales executives across         various regions. It is tailored to the company's internal sales operations and provides detailed insights into daily sales   activities, target achievements, and performance gaps.
 The data includes:
 -Employee Codes
@@ -50,14 +50,14 @@ The data includes:
 -Deviation from Target Percentage
 
 
-## Features/Highlights :-
-# 🧩 Business Problem
+# Features/Highlights :-
+## 🧩 Business Problem
 "How can the sales leadership team effectively monitor, compare, and improve the performance of individual sales executives    across different regions to meet overall sales targets?"
 
-# 🎯 Goal of the Dashboard
+## 🎯 Goal of the Dashboard
  To provide a clear, interactive, and data-driven view of individual sales executives’ performance, enabling sales managers    to monitor sales, evaluate target achievement, identify performance gaps, and make informed decisions to improve overall      team productivity.
  
-# 📊 Key Visuals in the Dashboard
+## 📊 Key Visuals in the Dashboard
 🔹Bar Chart – Total Sales by Executive
   -Shows and compares total sales for each executive.
   -Helps identify top and low performers quickly.
@@ -83,13 +83,14 @@ The data includes:
   -Saves time and ensures that the dashboard always reflects the most current data without manual updates.
   -Reduces manual tasks, speeding up the analysis process.
   
-# 📈 Business Impacts And Insights :-
+## 📈 Business Impacts And Insights :-
  This Sales Performance Dashboard enhances decision-making by providing real-time insights into individual sales executives' performance, enabling quick identification of     top performers and underperformers.It allows sales managers to track target achievement and gaps efficiently, improving resource allocation and team focus.The use of VBA     Macros automates repetitive tasks, boosting productivity. By visualizing key metrics, the dashboard helps refine sales strategies and drive consistent performance across     regions. Overall, it empowers the business to optimize sales efforts and achieve higher targets.
 🚀 Overall Business Impact:
 -Boosted Sales Productivity: More informed decision-making helps optimize sales team performance.
 -Enhanced Goal Alignment: Clear insights lead to better goal setting and alignment across the sales team.
 -Faster Response Times: Real-time data access helps sales managers quickly identify and address performance issues, ensuring   quicker actions are taken to hit targets.
 
-# 🖼️ Dashboard Snapshot / Demos :-
-  https://github.com/RutujaaS/Sales-Performance-Analysis-Dashboard/blob/main/SalesAnalysis_Dashboard.png
+## 🖼️ Dashboard Snapshot / Demos :-
+   <img width="1705" height="663" alt="SalesAnalysis_Dashboard" src="https://github.com/user-attachments/assets/83111e39-3e34-4ae0-97a5-99162fd8027d" />
+
   
